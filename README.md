@@ -1,4 +1,4 @@
-# portfolio
+
 Portfolio Project
 Welcome to my portfolio project! This is a personal website where I showcase my skills, projects, and experience. The project is built using HTML, CSS, and JavaScript, and includes sections like "About Me," "Projects," "Skills," and "Contact."
 
